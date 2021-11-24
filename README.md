@@ -6,6 +6,14 @@ You can create a load test by using existing test scripts, based on Apache JMete
 
 Check out the [preview documentation](https://docs.microsoft.com/azure/load-testing) and [create your first load test](https://docs.microsoft.com/azure/load-testing/quickstart-create-and-run-load-test).
 
+## Frequently Asked Questions
+
+Please visit the [FAQs wiki page](https://github.com/microsoft/azure-load-testing/wiki/FAQs).
+
+## Known Issues for Public Preview
+
+Please review the [known issues wiki page](https://github.com/microsoft/azure-load-testing/wiki/Known-Issues-for-public-preview) before reporting new issues.
+
 ## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
