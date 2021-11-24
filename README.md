@@ -4,6 +4,8 @@ Azure Load Testing Preview is a fully managed load testing service that enables 
 
 You can create a load test by using existing test scripts, based on Apache JMeter, a popular open-source load and performance tool. For Azure-based applications, detailed resource metrics help you identify performance bottlenecks. Continuous integration and continuous deployment (CI/CD) workflows allow you to automate regression testing.
 
+Check out the [preview documentation](https://docs.microsoft.com/azure/load-testing) and [create your first load test](https://docs.microsoft.com/azure/load-testing/quickstart-create-and-run-load-test).
+
 ## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
