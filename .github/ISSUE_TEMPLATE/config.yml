@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Known Issues
+    url: https://github.com/microsoft/azure-load-testing/wiki/Known-Issues-for-public-preview
+    about: Please check for known issues here
