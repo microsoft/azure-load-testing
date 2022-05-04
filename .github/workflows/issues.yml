@@ -16,7 +16,7 @@ jobs:
           ado_organization: "devdiv"
           ado_project: "OnlineServices"
           ado_area_path: "OnlineServices\\CloudTestingService"
-          ado_iteration_path: "OnlineServices\\OneVS\\Nickel [NI]\\Q3\\2021-09"
+          ado_iteration_path: "OnlineServices\\Previous Sprints\\Nickel [NI]\\Q3\\2021-09"
           ado_wit: "Issue"
           ado_new_state: "New"
           ado_active_state: "Active"
