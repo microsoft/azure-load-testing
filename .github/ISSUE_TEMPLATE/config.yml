@@ -1,9 +1,9 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Microsoft Developer Community [View existing feedback]
+  - name: View existing feedback on Microsoft Developer Community 
     url: https://developercommunity.visualstudio.com/loadtesting
     about: We are no longer monitoring new issues on this repo is. Please create an issue on Developer Community.
-  - name: Report a Problem [New]
+  - name: Report a Problem 
     url: https://developercommunity.visualstudio.com/loadtesting/report
     about: We are no longer monitoring new issues on this repo is. Please create an issue on Developer Community.
   - name: Request a feature
