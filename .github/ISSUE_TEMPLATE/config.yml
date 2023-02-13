@@ -1,5 +1,5 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Known Issues
-    url: https://github.com/microsoft/azure-load-testing/wiki/Known-Issues-for-public-preview
-    about: Please check for known issues here
+  - name: Microsoft Developer Community
+    url: https://developercommunity.visualstudio.com/loadtesting
+    about: Create an issue on Developer Community
