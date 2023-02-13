@@ -6,6 +6,6 @@ contact_links:
   - name: Report a Problem 
     url: https://developercommunity.visualstudio.com/loadtesting/report
     about: We are no longer monitoring new issues on this repo. Please create an issue on Developer Community.
-  - name: Request a feature
+  - name: Request a Feature
     url: https://developercommunity.visualstudio.com/loadtesting/suggest
     about: We are no longer monitoring new issues on this repo. Please create an issue on Developer Community.
