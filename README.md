@@ -1,10 +1,10 @@
-# Azure Load Testing Preview
+# Azure Load Testing 
 
-Azure Load Testing Preview is a fully managed load testing service that enables you to generate high-scale load. The service will simulate traffic for your applications, regardless of where they're hosted. Developers, testers, and quality assurance (QA) engineers can use it to optimize application performance, scalability, or capacity.
+Azure Load Testing  is a fully managed load testing service that enables you to generate high-scale load. The service will simulate traffic for your applications, regardless of where they're hosted. Developers, testers, and quality assurance (QA) engineers can use it to optimize application performance, scalability, or capacity.
 
 You can create a load test by using existing test scripts, based on Apache JMeter, a popular open-source load and performance tool. For Azure-based applications, detailed resource metrics help you identify performance bottlenecks. Continuous integration and continuous deployment (CI/CD) workflows allow you to automate regression testing.
 
-Check out the [preview documentation](https://docs.microsoft.com/azure/load-testing) and [create your first load test](https://docs.microsoft.com/azure/load-testing/quickstart-create-and-run-load-test).
+Check out the [documentation](https://docs.microsoft.com/azure/load-testing) and [create your first load test](https://docs.microsoft.com/azure/load-testing/quickstart-create-and-run-load-test).
 
 ## Frequently Asked Questions
 
